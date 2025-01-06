@@ -1,3 +1,9 @@
+// Estrutura MVC para Gerenciamento de Cursos em Java
+
+// ===========================
+// MODEL
+// ===========================
+
 package Model;
 
 /**
