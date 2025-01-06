@@ -1,4 +1,6 @@
 package View;
 
-public class CursoGUI {
+import javax.swing.*;
+
+public class CursoGUI extends JFrame {
 }

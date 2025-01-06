@@ -1,4 +1,7 @@
 package View;
 
-public class LoginGUI {
+import javax.swing.*;
+
+public class LoginGUI extends JFrame {
+
 }
